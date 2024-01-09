@@ -9,7 +9,7 @@ public class HomeController {
 
     @GetMapping("/")
     public String home() {
-        return "Hello, this is a simple web application!";
+        return "Hello Oluwaseyi, this is a simple web application!";
     }
 }
 
